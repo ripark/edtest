@@ -1,4 +1,4 @@
 # edtest
 Example for COSC class demos
 
-STUFF
+STUFF AND MORE STUFF DAMMIT.
